@@ -9,7 +9,7 @@
 👟신발 매니아들을 위한 웹사이트를 만들어보는게 목표입니다.
 
 🧑‍💻한 번이라도 공부해봤던 것들👨‍
-<img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo="C:\Users\82102\Downloads\html5.svg"&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/#E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
 
 <!--
 **YOOJS1205/YOOJS1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
