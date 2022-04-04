@@ -1,21 +1,24 @@
-### Hi there 👋
+## Hi there 👋
 
 😄프론트엔드 개발자를 꿈꾸고 있습니다!!😄
 
-현재 <b>자바스크립트와 리액트</b>를 열심히 공부하고 있어요.📖
+### 🧐 현재 <b>자바스크립트와 리액트</b>를 열심히 공부하고 있어요.📖 <br><br>
 
-📝개발 블로그 : https://velog.io/@yoojs1205
+### 📝 개발 블로그 : https://velog.io/@yoojs1205 (깃허브로 이전..!!)<br><br>
 
-👟신발 매니아들을 위한 웹사이트를 만들어보는게 목표입니다.
+### 🤔 사용자 친화적인 쇼핑몰 웹사이트를 만드는 것이 꿈입니다!! <br><br>
 
-<div align="center">🧑‍💻Tech Stack!!👨‍</div>
+<div align="center"><h1>🧑‍💻Tech Stack!!👨‍</h1></div>
+<div align="center"><h2>Front-end tech stack that I studying!!</h2></div><br>
 
-<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
-<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
+<div align="center">
+    <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
+    <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
+</div>
 
 <!--
 **YOOJS1205/YOOJS1205** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
