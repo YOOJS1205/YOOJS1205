@@ -18,6 +18,12 @@
     <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=Redux&logoColor=white"/></a>&nbsp;
     <img src="https://img.shields.io/badge/StyledComponents-DB7093?style=flat-square&logo=styled-components&logoColor=white"/></a>&nbsp;
+</div><br><br>
+
+
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api?username=yoojs1205&show_icons=true&theme=tokyonight">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yoojs1205&layout=compact&theme=tokyonight">
 </div>
 
 <!--
