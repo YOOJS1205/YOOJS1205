@@ -2,9 +2,7 @@
 
 😄프론트엔드 개발자를 꿈꾸고 있습니다!!😄<br>
 
-🧐 현재 <b>자바스크립트와 리액트</b>를 열심히 공부하고 있어요.📖 
-
-🤔 사용자 친화적인 쇼핑몰 웹사이트를 만드는 것이 꿈입니다!! <br><br>
+🧐 현재 <b>자바스크립트와 리액트</b>를 열심히 공부하고 있어요.📖 <br><br>
 
 <div align="center"><h1>🧑‍💻Tech Stack!!👨‍</h1></div>
 <div align="center"><h2>Front-end tech stack that I studying!!</h2></div><br>
